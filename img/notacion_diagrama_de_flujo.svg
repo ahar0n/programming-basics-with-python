@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="357 -270 438 37" width="438" height="37">
+  <defs>
+    <font-face font-family="Fira Sans" font-size="10" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="934.9976" descent="-264.9994" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.15 
+    <dc:date>2018-06-04 04:34:13 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_9">
+        <path d="M 371.5 -269.5 L 434.5 -269.5 C 441.952 -269.5 448 -261.436 448 -251.5 C 448 -241.564 441.952 -233.5 434.5 -233.5 L 371.5 -233.5 C 364.048 -233.5 358 -241.564 358 -251.5 C 358 -261.436 364.048 -269.5 371.5 -269.5 Z" fill="white"/>
+        <path d="M 371.5 -269.5 L 434.5 -269.5 C 441.952 -269.5 448 -261.436 448 -251.5 C 448 -241.564 441.952 -233.5 434.5 -233.5 L 371.5 -233.5 C 364.048 -233.5 358 -241.564 358 -251.5 C 358 -261.436 364.048 -269.5 371.5 -269.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(372 -257.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="7.15" y="9">Begin/End</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 492.7 -269.5 L 557.5 -269.5 L 541.3 -233.5 L 476.5 -233.5 Z" fill="white"/>
+        <path d="M 492.7 -269.5 L 557.5 -269.5 L 541.3 -233.5 L 476.5 -233.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(497.7 -257.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="4.219999" y="9">In/Out</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <rect x="586" y="-269.5" width="90" height="36" fill="white"/>
+        <rect x="586" y="-269.5" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(591 -257.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="22.86" y="9">Process</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 749.5 -269.5 L 794.5 -251.5 L 749.5 -233.5 L 704.5 -251.5 Z" fill="white"/>
+        <path d="M 749.5 -269.5 L 794.5 -251.5 L 749.5 -233.5 L 704.5 -251.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(721.65 -257.86)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="9.41" y="9">Decision</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

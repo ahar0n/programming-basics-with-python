@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 169" width="136" height="169">
+  <defs>
+    <font-face font-family="Courier New" font-size="10" panose-1="2 7 3 9 2 2 5 2 4 4" units-per-em="1000" underline-position="-232.91016" underline-thickness="41.015625" slope="0" x-height="422.85156" cap-height="571.28906" ascent="832.5195" descent="-300.29297" font-weight="400">
+      <font-face-src>
+        <font-face-name name="CourierNewPSMT"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 4 0 L 0 -1.5 L 0 1.5 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.15 
+    <dc:date>2020-07-01 06:24:51 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_9">
+        <text transform="translate(40.498047 90)" fill="black">
+          <tspan font-family="Courier New" font-size="10" font-weight="400" fill="black" x="0" y="8">True</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <line x1="85" y1="65" x2="85" y2="89.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1"/>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(90.49756 125)" fill="black">
+          <tspan font-family="Courier New" font-size="10" font-weight="400" fill="black" x="0" y="8">False</tspan>
+        </text>
+      </g>
+      <g id="Line_5">
+        <line x1="85" y1="5" x2="85" y2="29.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4">
+        <path d="M 55 110 L 15 110 L 15 50 L 49.1 50" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1"/>
+      </g>
+      <g id="Line_3">
+        <line x1="85" y1="125" x2="85" y2="149.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1"/>
+      </g>
+      <g id="Graphic_11">
+        <rect x="55" y="35" width="60" height="30" fill="white"/>
+        <rect x="55" y="35" width="60" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(60 44.5)" fill="black">
+          <tspan font-family="Courier New" font-size="10" font-weight="400" fill="black" x="15.998535" y="8">...</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <path d="M 85 95 L 115 110 L 85 125 L 55 110 Z" fill="white"/>
+        <path d="M 85 95 L 115 110 L 85 125 L 55 110 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(68.1 104.2)" fill="black">
+          <tspan font-family="Courier New" font-size="10" font-weight="400" fill="black" x="14.499512" y="8">?</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
