@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="20 7.5 137.51126 129.58456" width="137.51126" height="129.58456">
+  <defs>
+    <font-face font-family="Courier New" font-size="14" panose-1="2 7 3 9 2 2 5 2 4 4" units-per-em="1000" underline-position="-232.91016" underline-thickness="41.015625" slope="0" x-height="422.85156" cap-height="571.28906" ascent="832.5195" descent="-300.29297" font-weight="400">
+      <font-face-src>
+        <font-face-name name="CourierNewPSMT"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-06-03 16:47:04 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" fill="none" stroke="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_12">
+        <text transform="translate(83.7998 12.5)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="0" y="12">b</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(25 70)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="0" y="12">a</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 28.41544 18.40763 L 157.01126 56.65831 L 49.25322 136.58456 Z" fill="white"/>
+        <path d="M 28.41544 18.40763 L 157.01126 56.65831 L 49.25322 136.58456 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(105 95)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="0" y="12">c</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
